@@ -31,7 +31,7 @@ I like to listen Progressive and melodic death metal while i'm working
 
 ## Some work / contributing experience
 
-Currently working at _BDFL_ [@Platzi](https://platzi.com) :green_heart:
+Currently working at [@Platzi](https://platzi.com) :green_heart:
 
 Some other places I've worked for:
 
