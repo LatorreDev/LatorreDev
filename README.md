@@ -4,6 +4,8 @@ I'm a DevSecOps and Sys Admin, I'm specialized in Unix Like systems and networks
 
 I'm Currently learning and applying strong cibersecurity focusing on international certifications.
 
+I'm Increasing my skills on rust and golang each day.
+
 ## A few facts about me
 
 I like old tech such as languages like C, also I like difficult thinks including games, hobbies, music, etc
@@ -23,7 +25,7 @@ I like to listen Progressive and melodic death metal while i'm working
 |              C             |            Rust            |             Golang            |            Bash            |           Python           |
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width="100px"> | <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100px"> |  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100px">
-|Skill level ![70%](https://progress-bar.dev/80)|Skill level ![20%](https://progress-bar.dev/30)|Skill level ![20%](https://progress-bar.dev/40)|Skill level ![90%](https://progress-bar.dev/90)|Skill level ![75%](https://progress-bar.dev/25)|| The tech world angular stone | Friendly C  |  A gopher!!!  |  Super powers for sysadmins  |  Brain Friendly and fast development  |
+|Skill level ![70%](https://progress-bar.dev/70)|Skill level ![20%](https://progress-bar.dev/20)|Skill level ![20%](https://progress-bar.dev/20)|Skill level ![90%](https://progress-bar.dev/90)|Skill level ![75%](https://progress-bar.dev/75)|| The tech world angular stone | Friendly C  |  A gopher!!!  |  Super powers for sysadmins  |  Brain Friendly and fast development  |
 
 ---
 
