@@ -1,6 +1,6 @@
 # About LatorreDev 
 
-I'm a DevSecOps and Sys Admin, I'm specialized in Unix Like systems and networks, Also I Programm and love it a do it for fun doing some backend stuff in my free time.
+I'm a DevSecOps and Sys Admin, I'm specialized in Unix Like systems and networks, Also I Program and love it and do it for fun doing some backend stuff in my free time.
 
 I'm Currently learning and applying strong cibersecurity focusing on international certifications.
 
@@ -12,11 +12,11 @@ I like old tech such as languages like C, also I like difficult thinks including
 
 I like to ride fixed gear bike, a difficult bike to ride, is brakeless.
 
-My personal GNU/Linux is Arch (Installed without scripts) for servers I use Debian.
+My personal GNU/Linux distro is Arch (Installed without scripts) for servers I use Debian.
 
 I program using vim with plugins, I can work without any UI
 
-I like to listen Progressive and melodic death metal while i'm working
+I like to listen Progressive and Melodic Death Metal while I'm working
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LatorreDev)](https://github.com/anuraghazra/github-readme-stats)
 
