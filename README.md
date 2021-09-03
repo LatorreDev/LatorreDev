@@ -17,6 +17,8 @@ My personal GNU/Linux distro is Arch (Installed without scripts) for servers I u
 I program using vim with plugins, I can work without any UI
 
 I like to listen Progressive and Melodic Death Metal while I'm working
+
+I create pixel art, games with that style and chiptunes as hobbie
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LatorreDev)](https://github.com/anuraghazra/github-readme-stats)
 
