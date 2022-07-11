@@ -33,10 +33,8 @@ I create pixel art, games with that style and chiptunes as hobbie
 
 ## Some work / contributing experience
 
-Currently working at [@Platzi](https://platzi.com) :green_heart:
-
 Some other places I've worked for:
-
+* Platzi (YCombinator 2015) (2019-2022)
 * Antonio Nariño University (2014-2018)
 * Jazzplat (2018)
 * Netcom (2015)
