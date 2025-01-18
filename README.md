@@ -12,13 +12,11 @@ I like old tech such as languages like C, also I like difficult thinks including
 
 I like to ride racing bikes on circuits, I'm currently using a Yamaha R15.
 
-My personal GNU/Linux distro is Debian (The old reliable one) for servers I use Ubuntu LTS.
+My personal GNU/Linux distro is Arch Linux for servers I use Ubuntu LTS.
 
-I program using vim with plugins, I can work without any UI
+I can program using neovim with plugins, I can work without any UI, but I prefer to use standars tools like vscode
 
-I like to listen Progressive and Melodic Death Metal while I'm working
-
-I create pixel art, games with that style and chiptunes as hobbie using foss tools
+I create pixel art, games with that style and chiptunes as hobbie using FOSS tools
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LatorreDev)](https://github.com/anuraghazra/github-readme-stats)
 
