@@ -33,6 +33,7 @@ I create pixel art, games with that style and chiptunes as hobbie using FOSS too
 
 Some other places I've worked for:
 * Globant (2022 - Current)
+  * Contractor with (Wabtec - Inter American Development Bank - Meta - Google - British Airways)   
 * Calyptia (Creators of Fluent Bit) (2022)
 * Platzi (YCombinator 2015) (2019-2022)
 * Antonio Nariño University (2014-2018)
@@ -45,8 +46,9 @@ Some other places I've worked for:
 * Ubuntu Colombia Member
 * Code Dojo Coach
 * Facebook Developer Circle member
-* Several scripting for linux administration (You can check it out on my profile)
-
+* Several scripting for Linux administration (You can check it out on my profile)
+* IA development from Linux using Nvidia CUDA
+* FOSS tools for videogames promotor and dev
 **You can find me on:**
 
 <p align="left">
